@@ -1,7 +1,8 @@
 import { AppRegistry } from 'react-native';
+import React from 'react';
 import Header from "./components/header";
 
-const app = () => {
+const App = () => {
   return (
       <Header />
   )
