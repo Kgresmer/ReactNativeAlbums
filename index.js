@@ -3,7 +3,7 @@ import Header from "./components/header";
 
 const app = () => {
   return (
-      <Header></Header>
+      <Header />
   )
 };
 
