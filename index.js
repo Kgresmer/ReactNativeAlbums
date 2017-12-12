@@ -4,7 +4,7 @@ import Header from "./components/header";
 
 const App = () => {
   return (
-      <Header />
+      <Header headerText={'Albums'} />
   )
 };
 
