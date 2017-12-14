@@ -17,7 +17,7 @@ const styles = {
         fontSize: 20
     },
     viewStyle: {
-        height: '30%',
+        height: 50,
         margin: 5,
         backgroundColor: '#F8F8F8',
         alignItems: 'center',
@@ -26,7 +26,7 @@ const styles = {
         shadowOffset: { width: 0, height: 10 }, //IOS
         shadowOpacity: 0.9,
         elevation: 10, //Android
-        // position: 'relative'
+        position: 'relative'
     }
 };
 
