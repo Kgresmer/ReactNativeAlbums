@@ -30,7 +30,7 @@ const AlbumDetail = ({album}) => {
                 <Image style={albumImageStyle} source={{uri: image}}/>
             </CardSection>
             <CardSection>
-                <Button/>
+                <Button onPress={}/>
             </CardSection>
         </Card>
     )
